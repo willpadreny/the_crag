@@ -1,0 +1,1559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+	creator="theCrag.com"
+	version="1.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+	http://www.topografix.com/GPX/1/1/gpx.xsd
+">
+<metadata>
+<link href="https://www.thecrag.com"><text>theCrag.com</text></link>
+</metadata>
+<link href="https://www.thecrag.com//en/climbing/australia/corin-road-bouldering"><text>Full text crag guide for "Corin Road Bouldering"</text></link>
+<emailType id="support" domain="thecrag.com" />
+<copyright author="theCrag.com">
+	<license>https://www.thecrag.com/copyright</license>
+</copyright>
+<copyright author="Canberra Climbers' Association">
+    <license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</copyright>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>Crag: Corin Road Bouldering </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>Area: Cantaloupe Hill </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 **Memories (5m )</name>
+    <desc><![CDATA[ Just enough holds for an ascent.  Hard work getting off the ground, a big move to the next incut, then you're on the slab and away.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 Project 2 - open (4m )</name>
+    <desc><![CDATA[ Technical and gut-busting.  Grade is a guess.  Some seriously strenuous layback moves.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 Slab proj (5m )</name>
+    <desc><![CDATA[ Left side of the slab.  Delicate!  ]]></desc>
+</wpt>
+<wpt lat="-35.47627845000" lon="148.93187345000">
+    <name>Boulder: Glitz Rock </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 Without Words (2m )</name>
+    <desc><![CDATA[ Start in the vague scoop and grovel your way to a desperate mantle. Not great.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 *Tally Ho (2.4m )</name>
+    <desc><![CDATA[ Sit start at the spike (same start as Vendetta). Straight up via the corner/groove.  Quite messy after it's rained.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 ***Vendetta (3m )</name>
+    <desc><![CDATA[ Sit start at Tally Ho, then follow the break rightwards to the rounded arête, then mantle/rock over to the top. Progressively crimpier with thinner feet. Part of the crux footer has broken off, now a bit harder (Sept 2023).
+[ :video_camera: Chris Beers](https://www.instagram.com/p/B0Mc3kADFQ-/)  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V11 ***Cerebro (4m )</name>
+    <desc><![CDATA[ Start for Vendetta, then drop down into the underclings, make some hard moves through underclings and slopers finishing out the top of the boulder (as for Vendetta or the Joker).
+
+[ :video_camera: CMCC](https://www.youtube.com/watch?v=yIni8Cbw_3U)  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Contempt Left (4m )</name>
+    <desc><![CDATA[ As per Contempt, but topout for Tally Ho.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 *Contempt (4m )</name>
+    <desc><![CDATA[ Sit start on the far left side of the underclings (just right of the start to Tally Ho), then straight up, topping out right of where Tally Ho tops out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 **Dripping on Trips Left (4m )</name>
+    <desc><![CDATA[ Stand start at the big underclings, make a big move into the horizontal break and then traverse left to finish as for Tally Ho.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 **Dripping on Trips (4m )</name>
+    <desc><![CDATA[ Stand start on the big underclings and head to the crimpy rail for Vendetta and top out as for Vendetta.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 ***The Joker (4m )</name>
+    <desc><![CDATA[ A Canberra classic - the proud line diagonally up the front of the boulder as you approach on the walk in.  Good positive holds, but still hard work!  Note: this is a *squat start* - you start on the first set of good holds.
+
+[ :video_camera: CMCC](https://www.youtube.com/watch?v=I1PHSscbv1I)  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 ***The Joker - Sit (4m )</name>
+    <desc><![CDATA[ The full sit start to the Joker.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V9 **Stopping All Stations (8m )</name>
+    <desc><![CDATA[ Start up The Joker, then reverse Vendetta, and finish up Tally Ho.
+
+Not as contrived as it sounds - actually a pretty nice line. The Vendetta rail is harder in this direction.
+
+Gets V9 in the guidebook, but might be a bit soft.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V9 **Stopping Absolutely All Stations (8m )</name>
+    <desc><![CDATA[ The full link-up of the boulder. Stopping All Stations with the sit start.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V9/10 ***Stop with the Stopping Stations </name>
+    <desc><![CDATA[ Sit start the Joker, climb this, then reverse Vendetta and finish up the fingery mantle of Contempt. Sustained and consistently hard.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V10 **Derailment </name>
+    <desc><![CDATA[ Sit start the Joker and then when the diagonal crack runs out make hard moves to reverse Cerebro finishing up Tally Ho.
+
+[ :video_camera: CMCC](https://www.youtube.com/watch?v=UpCU8i9MS-c)  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V10 **Lipstick Lesbian (4m )</name>
+    <desc><![CDATA[ Start for the Joker, then head straight up where the rock splits into two cracks. Long dyno to the big slope, match then mantel up.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 Persian Rug (3m )</name>
+    <desc><![CDATA[ Nice warmup problem upslope and behind Glitz Rock  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 Number 5 (3m )</name>
+    <desc><![CDATA[ Right hand variant to Persian Rug (#6 in CCA guide).  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 - 1 Prydain (2.5m )</name>
+    <desc><![CDATA[ Sit start left of persian rug on the undercling and up the &quot;arete&quot;.  Eliminate - left side rail is out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588995000" lon="148.93166635000">
+    <name>Boulder: Prow Rock </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Intrusion (2.5m )</name>
+    <desc><![CDATA[ Sit start problem through obvious basalt or similar intrusion on back of boulder and right of prow.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2/3 *Intrusion stand (3m )</name>
+    <desc><![CDATA[ Stand variant to intrusion.  Very height-dependent.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Ruffian (5m )</name>
+    <desc><![CDATA[ Sit start and then go diagonally left up the seam.  Falling at the end would be bad.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 ***Spruce Moose - stand (4m )</name>
+    <desc><![CDATA[ Standing start to Spruce Moose - slap up the boulder.  Burly.
+[ :video_camera: CMCC](https://www.youtube.com/watch?v=HXjpYVOjOjw)  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V8 ***Spruce Moose - sitstart (4m )</name>
+    <desc><![CDATA[ Sit start down on the left arete then slap out to the right side of the prow then continue up with big compression moves up the prow.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V8 Lanky Yanky (4m )</name>
+    <desc><![CDATA[ Up and left crimping under roof then up and over.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 Throw Back (4m )</name>
+    <desc><![CDATA[ Long throw to crimp.   ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 Pubs (2.5m )</name>
+    <desc><![CDATA[ The slab.   ]]></desc>
+</wpt>
+<wpt lat="-35.47577625000" lon="148.93144070000">
+    <name>Area: Slab Rock </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 Another (2m )</name>
+    <desc><![CDATA[ Grunt your way up the slab on the left side right in the trees.  If you can be bothered.  You might get a real surprise if you fall.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 *Szady Slap (2m )</name>
+    <desc><![CDATA[ Traverse all the way along the slab from the right hand side of the rock as you come uphill.  Hope you've got good friction in your hands!  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 Peter Pan (2.5m )</name>
+    <desc><![CDATA[ Left of the start to Szady Slap, take a run at the slab, jump, get your feet set and reach for glory.  Invigorating cooldown.  ]]></desc>
+</wpt>
+<wpt lat="-35.47621950000" lon="148.93150105000">
+    <name>Boulder: Number 15 boulder </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 **Back in Black (#15) (2m )</name>
+    <desc><![CDATA[ Sit start from left of slab then traverse right and up the slab on crimps.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 **Slow and Low (#16) (2m )</name>
+    <desc><![CDATA[ Sit-start traverse the boulder left to right.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 Bergs (2m )</name>
+    <desc><![CDATA[ Sit-start the arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.47634960000" lon="148.93124620000">
+    <name>Boulder: Heart Block(s) </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 Little Arete (#18) (2m )</name>
+    <desc><![CDATA[ Sit-start and up to the left or the right.  Rock on the left of the track just before heart block  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 **Drug Money for the Bunny (#19) (5m )</name>
+    <desc><![CDATA[ Access is along forestry roads, which in most cases seem to have been closed and gated.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 *Organs in Orbit (#20) (10m )</name>
+    <desc><![CDATA[ Traverse left to right then up, finishing as for 22, the righthandmost climb.  Either gaston through the crux or execute a hard cross-through.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 Vena Cava </name>
+    <desc><![CDATA[ start left of rocks on undercling. continue up underclings to the break and straight up 'check your head'  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 ***Check Your Head (#21) (8m )</name>
+    <desc><![CDATA[ classic Highball.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 **Right Ventricle </name>
+    <desc><![CDATA[ Sit start on the crack and stay in crack then finish up and right. V5  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 **Swinging Doors (#22) (6m )</name>
+    <desc><![CDATA[ Up onto a good flat edge with crappy footers, get yourself set, dyno out left then up.  ]]></desc>
+</wpt>
+<wpt lat="-35.47634960000" lon="148.93124620000">
+    <name>V0 Project 1 (5m )</name>
+    <desc><![CDATA[ The crack.  ]]></desc>
+</wpt>
+<wpt lat="-35.47634960000" lon="148.93124620000">
+    <name>V3 Vitruvian (2m )</name>
+    <desc><![CDATA[ Stand start at flake, matching hands above.  Layback from there out to the edge of the slope, cut feet, find the slot and up.  ]]></desc>
+</wpt>
+<wpt lat="-35.47634960000" lon="148.93124620000">
+    <name>V5 **Visceral (2m )</name>
+    <desc><![CDATA[ Start as for Vitruvian, layback out right, cut feet and dangle in thin air, then turn and heel hook up in the slot just before the end of the jutting prow.  V4 moves up to here...  Now execute a gut-wrenching mantle with your left foot dangling in the air.  Positive holds.  Pretty damn contrived.  On reflection, it's not worth stars, but it's fun to try and mantel over the shit foot-slot.  The full line is the real prize.  Don't touch the ground, obviously!  ]]></desc>
+</wpt>
+<wpt lat="-35.47634960000" lon="148.93124620000">
+    <name>V9 Project 1 - prow traverse (2m )</name>
+    <desc><![CDATA[ Traverse from the start of Vitruvian right around the boulder, heel hooking and groaning all the way.  Pretty much a huge campus problem really.  ]]></desc>
+</wpt>
+<wpt lat="-35.47634960000" lon="148.93124620000">
+    <name> Project 2 - the Cave (Boulder 2.5m )</name>
+    <desc><![CDATA[ Sit start inside the cave, move to a downward-sloped rail, huge throw up to next hold.  Not sure if it's possible without hitting the rock behind, but this is one for the insanely strong.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 Number 23 </name>
+    <desc><![CDATA[ Sit-start.  Looks like something has broken, as this has minimal hand holds and small feet.  Looked to be a single dynamic move to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.47621878014" lon="148.92999565949">
+    <name>Sector: The Upper Ridge </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 *Number 1 (3m )</name>
+    <desc><![CDATA[ Sit start.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Jayenne (5m )</name>
+    <desc><![CDATA[ Stand start from the bottom of the boulder.  After gaining your feet, a fair sized dynamic move out left from smears will get you to the glory rail, and then finish as for #1.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 Number 2 (3m )</name>
+    <desc><![CDATA[ Access is along forestry roads, which in most cases seem to have been closed and gated.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 *Nice Guys Finish Last (5m )</name>
+    <desc><![CDATA[ Slab.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 **O'Ren Ishi </name>
+    <desc><![CDATA[ Sit start.  Traverse left then up.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 **Cotten Mouth (3m )</name>
+    <desc><![CDATA[ Sit start then over onto slab.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 **Rumspringa (4m )</name>
+    <desc><![CDATA[ Sit-start up the arete.  Quite overhung.  A great quality climb well worth the walk up to this sector just by itself.  Low in the grade.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 **Fraud Landis </name>
+    <desc><![CDATA[ Sit start then traverse left onto slopes from Rumspringa.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 **Rumspringa stand (4m )</name>
+    <desc><![CDATA[ Seems about the same as Rumspringa as the crux balance move is in the stand, but doesn't include the heel hook above the head.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 *QJ WIN </name>
+    <desc><![CDATA[ Crimp and dyno. vertical problem just 5m down from 'snatch strap'  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 *Snatch Strap (3m )</name>
+    <desc><![CDATA[ Sit start right side then up the curving line  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 *Boat Mantle (3m )</name>
+    <desc><![CDATA[ Sit start.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 South Paw </name>
+    <desc><![CDATA[ sit start bottom left climb right  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 *Blue Jeans (2m )</name>
+    <desc><![CDATA[ Sit-start then mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 **More moss </name>
+    <desc><![CDATA[ Sit start.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name> big arete (Boulder )</name>
+    <desc><![CDATA[ climbed?  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V7 ***Blood Makes Noise (5m )</name>
+    <desc><![CDATA[ Start with hand jam between blocks then into crack, pull lip and up right. Epic line!  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V8 ***Scream </name>
+    <desc><![CDATA[ Start with a hand jam between blocks and then into crack, head straight up and dyno.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 Between the lines </name>
+    <desc><![CDATA[ start on flakes up and exit right with tiny crimps  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 Counter point </name>
+    <desc><![CDATA[ right arete  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 Corner Bloc </name>
+    <desc><![CDATA[ Access is along forestry roads, which in most cases seem to have been closed and gated.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 **Reality Creep (4m )</name>
+    <desc><![CDATA[ sit start then to jug and slab out  ]]></desc>
+</wpt>
+<wpt lat="-35.47719632736" lon="148.92989033393">
+    <name>Area: Sundries </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 Dren </name>
+    <desc><![CDATA[ Sit start, grabbing either side of the prow.  Work your way up and top out - average feet all the way.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 Soot </name>
+    <desc><![CDATA[ Layback the flake to the left up onto the boulder, then top out to the right.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 Rarze </name>
+    <desc><![CDATA[ Sit start.  Up to the top of the first boulder, then head straight up and slightly left over the second.  Once on top, downclimb round to the left.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 Tauris </name>
+    <desc><![CDATA[ Sit start as per #3.  Once at the top of the first boulder, follow the seam up and right.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name> Flicking your switch (Boulder )</name>
+    <desc><![CDATA[ In front of problems 3 and 4, accessed under the huge burnt tree.  Difficult and blank looking layback up and left to a tricky top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 *Chime </name>
+    <desc><![CDATA[ Sit start.  Up the broken corner using many different features.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 ***Its daddy you shit head </name>
+    <desc><![CDATA[ Sit start round to the right.  Follow the good layback flake up and left round the tock, and top out straight up once at the 'ledge'.  Downclimb over the back.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Dance for daddy </name>
+    <desc><![CDATA[ Mantle up, starting off the block.  Awkward ledge, then top out straight up.  Downclimb off the back.  ]]></desc>
+</wpt>
+<wpt lat="-35.47774146944" lon="148.92888485800">
+    <name>Area: The Ice Blocks </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 More </name>
+    <desc><![CDATA[ Sit start.  Up crack in corner, trending right and round onto the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.477682" lon="148.928839">
+    <name>V4 **Born-again Hooligan (3m )</name>
+    <desc><![CDATA[ Sit start up to a big sloper then up to a good edge on top.  Easy top out and down climb. GPS (approx): -35.477682, 148.928839  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 Crete it </name>
+    <desc><![CDATA[ Sit start then up left, staying on the main block (don't escape up the crack between the boulders).  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 Skullduggery </name>
+    <desc><![CDATA[ Sit start as per #3.  Big throw right to a jug, then up to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.477682" lon="148.928839">
+    <name>V7 ***Aspen Armor </name>
+    <desc><![CDATA[ Hard sit start up to break, then head up ledges to top.  ]]></desc>
+</wpt>
+<wpt lat="-35.477682" lon="148.928839">
+    <name>V10 ***Skills to Pay the Bills </name>
+    <desc><![CDATA[ Sit start as per #5 to break, then traverse right on slopers to the end of the break, then head up to top.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Stone Cutter </name>
+    <desc><![CDATA[ Boulder down and left of Aspen arbor.   Start at the bottom right of the broken circle,  move left to the arete and up.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 Price Check </name>
+    <desc><![CDATA[ Sit start up the arete, then top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47693455000" lon="148.92745645000">
+    <name>Area: Lost World </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V6 ***One Undisclosed Period in Paradise (5m )</name>
+    <desc><![CDATA[ A solid walk for a decent problem. Sit start on obvious large flat flake to high but easy top out. To get off the top, move left and jump off onto mats.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name> Egg Project (Boulder )</name>
+    <desc><![CDATA[ Squat start from low diagonal undercling holds (forms an acute upside down triangle). Big pull to sloper on the lip followed by a big tension move out left to the positive arete and an easy top. Will be all time when it goes. Likely double digits.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name> Lip Project (Boulder )</name>
+    <desc><![CDATA[ Left to right rising lip traverse.  ]]></desc>
+</wpt>
+<wpt lat="-35.47484235237" lon="148.93394256940">
+    <name>Boulder: The Hand </name>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 **Cute Kill (6m )</name>
+    <desc><![CDATA[ Sit start from the cave up holding onto a big flake.  Compressive move to start.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V4 *Pinky Cling (6m )</name>
+    <desc><![CDATA[ Contrived sit start.  6 metres, but an easy terrain crack up top.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 Kerl (5m )</name>
+    <desc><![CDATA[ Straight up a mossy crack.  Nothing difficult.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 *Thumb Mantle (1.8m )</name>
+    <desc><![CDATA[ Sit start. Good mantle practice. **This problem no longer exists as the entire shield that comprised it has toppled over. Geologic time includes now.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 Middle Finger (5.5m )</name>
+    <desc><![CDATA[ Up the right side of the palm.  Easy terrain.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V5 *Tickler (4m )</name>
+    <desc><![CDATA[ Sit start.  The hardest V3 in the entire world?  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V2 *Skin end (4m )</name>
+    <desc><![CDATA[ Up the side of the boulder using layback-type moves.  Hard work to get your feet on top.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0 #7 RH variant (4m )</name>
+    <desc><![CDATA[ Good warmup for the burlier #6-7.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V1 Divagation (2.5m )</name>
+    <desc><![CDATA[ It really is a word.  Sit start at the opening of the cave around the corner and uphill a few metres from #7.  Start on positive holds, then find the hidden hold up high to progress.  The boulder behind is in - it's a cross between a chimney climb and a face climb!  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V0- Mellifluous (2m )</name>
+    <desc><![CDATA[ Small boulder on the way in to the hand.  Warm-up sit start.  ]]></desc>
+</wpt>
+<wpt lat="-35.47588431812" lon="148.92812416718">
+    <name>V3 *Trichiasis (5m )</name>
+    <desc><![CDATA[ Sit start for the V3, then exit out the roof and up the vertical slab.  Direct might be a fair bit harder if you're willing to huck a huge dyno - not sure it's viable.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 Number 24 </name>
+    <desc><![CDATA[ Access is along forestry roads, which in most cases seem to have been closed and gated.  ]]></desc>
+</wpt>
+<wpt lat="-35.46767052692" lon="148.95771391891">
+    <name>Boulder: George's Boulder </name>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **Call Girls (2m )</name>
+    <desc><![CDATA[ Sit start to the far right low down, then pull around the corner.  Finish with higher traverse to jug. The warm up...  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 **On Hold (2m )</name>
+    <desc><![CDATA[ Sit start to the far right and pull around the corner.  Finish with lower traverse/slopes to jug. Desperate.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 **The Tower (4m )</name>
+    <desc><![CDATA[ Sit start and up the arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **FIS (4m )</name>
+    <desc><![CDATA[ Sit start and straight up the thin slab  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **JAS (5m )</name>
+    <desc><![CDATA[ Start on the rail and up through a few sidepulls and crimps to a slab topout  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 *Shy moves (5m )</name>
+    <desc><![CDATA[ Up and onto the slab.  Smearing moves and a few check your head moments.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 **Slopesanity (2m )</name>
+    <desc><![CDATA[ Reverse 1a/b from the start of the rail past the victory jugs, using only the slopers.  Arguably better than 1a, slightly more fun moves in the opposite direction.  Holds all face the wrong way to traverse in this direction though, so it's like downclimbing slopers!  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 **Leg Spinner (5m )</name>
+    <desc><![CDATA[ Sit start to good jug, then up to good edge (dyno or intermediate crimps) and up.  A very sizeable dyno if you do it that way - bring a few mats to stack if you love your ankles.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V10 ***Shape Shifters (5m )</name>
+    <desc><![CDATA[ Straight up the front side of the boulder just before the end of Phone Sex. Sit start to big jug, heal hook and big chuck to crimp out left. pull hard to the high gaston and up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name> Foreign Correspondent (Boulder 5m )</name>
+    <desc><![CDATA[ As for 'Shape Shifters' but gain the crimp with a right hand and go left up the vague arete.
+
+No proposed grade but &quot;Double digits for sure&quot;
+
+[ :camera: D Fisher](https://www.instagram.com/p/DMRIA02zCsQ)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 **Happy ending (5m )</name>
+    <desc><![CDATA[ Sit start as for Shape Shifters. Up to the jugs then right along the rail to join Shy Moves, then continue right and up the slab to top out.
+
+[ :video_camera: CMCC](https://www.youtube.com/watch?v=9xeq4LKZ5Do)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 **Phone Diddle (2m )</name>
+    <desc><![CDATA[ The start many people use when claiming 'Phone Sex'!  From the scooped out area on the far side of the boulder as you walk in, start one block right on larger holds and then traverse out right to the jug for 1a/1b.  Still has the hardest moves of 'Phone Sex', but the full sit is now doable as the start has been cleaned up.  Requires less endurance than the full line.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 **Phone Sex (2m )</name>
+    <desc><![CDATA[ Start from the scooped out area on the far side of the boulder on low slopers, hard start moves out right on crimps (You may need to clean the Blackberries as they are persistent).  Many have started one block over for the sit-start, taking out the most strenuous moves of the climbs - see 'Phone Diddle'.  Traverse out right and end on the jug for 1a/1b.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 **Phone Sex with a Happy Ending (5m )</name>
+    <desc><![CDATA[ Start at Phone Sex and continue up Happy Ending to end on top of the boulder. 
+
+Nicer end to Phone Sex but not much harder.
+
+May have been climbed before (if so, feel free to claim it!).  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V11 Blood Moon (5.5m )</name>
+    <desc><![CDATA[ Start as for Phone Sex and finish through Shape Shifters.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V12 ***Mitosis (4m )</name>
+    <desc><![CDATA[ The impossible line directly above the Phone Diddle start. Sit start at the ledge, move to some tiny crimps then up through some imaginary slopers to top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V9 ***Phone Extension (5m )</name>
+    <desc><![CDATA[ Start from the sit start on phone sex, reach the finish jug of that problem but get set up, head into the 'Leg Spinner' dyno and topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V9 *Full Traverse (2m )</name>
+    <desc><![CDATA[ Traverse the full boulder.  One for the pumpers.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 Reverse Charges (1m )</name>
+    <desc><![CDATA[ Reverse 'Phone Sex'.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 *Dialed (5m )</name>
+    <desc><![CDATA[ Up the flake at the right side of the boulder as you approach it from the parking area (flake's gone so this problem is either way more difficult or just not worth the trouble).  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8/9 *My Toe Cyst </name>
+    <desc><![CDATA[ Do Phone Sex then keep traversing through reverse Call Girls until you reach the base of The Tower then do The Tower.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>Area: Snake Rock Boulders </name>
+</wpt>
+<wpt lat="-35.47536905000" lon="148.95220905000">
+    <name>Sector: Roadside Boulders </name>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 1. (3m )</name>
+    <desc><![CDATA[ Stand start left arete, climb straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 2. (3m )</name>
+    <desc><![CDATA[ Sit start left arete, climb straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 3. (3m )</name>
+    <desc><![CDATA[ Stand start right arete, climb straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>VB 4. (3m )</name>
+    <desc><![CDATA[ Sit start from bottom of crack, climb crack and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *5. (3m )</name>
+    <desc><![CDATA[ Stand start right arete, climb up and top out (boulder to left out).  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V6 Bart Sendy (3m )</name>
+    <desc><![CDATA[ Sit start of 5. Start with your left hand on the left arete and right hand on the obvious side pull.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V0 6. (4m )</name>
+    <desc><![CDATA[ Stand start from bottom of slab, climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V6 *The Nipple Mantle (2m )</name>
+    <desc><![CDATA[ Stand start matched on rounded hold at end of horizontal block. Mantle block (opposing boulder out).  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V5 **The Nipple Traverse (3m )</name>
+    <desc><![CDATA[ Stand start matched on rounded hold at end of horizontal block. Traverse rightwards finishing as for route 7.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V7 **The Nipple (4m )</name>
+    <desc><![CDATA[ Sit start at base of boulder beneath roof (opposing boulder out). Climb up, traverse leftwards along roof and finish as for &quot;The Nipple Mantle&quot;.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 **7. (4m )</name>
+    <desc><![CDATA[ Sit start at base of boulder beneath roof (opposing boulder out). Climb straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *8. (4m )</name>
+    <desc><![CDATA[ Stand start right side of the arete, climb straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V5 **9. (4m )</name>
+    <desc><![CDATA[ Sit start right side of the arete, climb straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *10. (5m )</name>
+    <desc><![CDATA[ Sit start from base of left hand crack. Climb leftwards onto slab then straight up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 11. (4m )</name>
+    <desc><![CDATA[ Sit start from base of left hand crack, climb crack and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V0 *12. (4m )</name>
+    <desc><![CDATA[ Sit start from base of right hand boulder, climb arete/crack and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 *I'm Not Your Bitch Stand (3m )</name>
+    <desc><![CDATA[ Stand start, climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V9 **I'm Not Your Bitch (4m )</name>
+    <desc><![CDATA[ Sit start from base of boulder. Climb up following seam topping out at its highset point.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V6 13. (2m )</name>
+    <desc><![CDATA[ Sit start from base of boulder (leftside). Climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47762325000" lon="148.95249740000">
+    <name>Boulder: Riverside Boulder </name>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *1. (2m )</name>
+    <desc><![CDATA[ Sit start right arete, climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 2. (2m )</name>
+    <desc><![CDATA[ Sit start large rail, climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *3. (3m )</name>
+    <desc><![CDATA[ Sit start base of crack, climb up and top top.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *4. (3m )</name>
+    <desc><![CDATA[ Sit start from base of prow, climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V0 *5. (3m )</name>
+    <desc><![CDATA[ Sit start from large flake. Climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47796720000" lon="148.95252755000">
+    <name>Boulder: Cartman Boulder </name>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V5 *1. (4m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *2. (4m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V6 **The Summer of Nath (5m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 *3. (5m )</name>
+    <desc><![CDATA[ Stand start from base of arete. Climb arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V9 *Sweets (5m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *4. (5m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V5 Ruth (5m )</name>
+    <desc><![CDATA[ Stand start from base of arete. Climb arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 ***Clementine (6m )</name>
+    <desc><![CDATA[ Stand start from base of flake. Climb flake and top out. Classic. One of the best at this grade in Canberra!  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V7 **5. (5m )</name>
+    <desc><![CDATA[ Sit start from base of flake. Climb flake and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 Duffy St (5m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 6. (4m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *7. (4m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 8. (4m )</name>
+    <desc><![CDATA[ Stand start from base of corner. Climb corner and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 *9. (3m )</name>
+    <desc><![CDATA[ Stand start from base of arete. Climb arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 10. (2m )</name>
+    <desc><![CDATA[ Sit start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47818385000" lon="148.95256490000">
+    <name>Boulder: Ike Boulder </name>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 1. (3m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *2. (3m )</name>
+    <desc><![CDATA[ Sit start (left of arete) on rail. Climb face\arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 3. (3m )</name>
+    <desc><![CDATA[ Stand start corner, climb corner and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V5 4. (3m )</name>
+    <desc><![CDATA[ Sit start undercut arete, climb arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V0 5. (3m )</name>
+    <desc><![CDATA[ Sit start rounded arete, climb arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>VB 6. (3m )</name>
+    <desc><![CDATA[ Stand start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 7. (3m )</name>
+    <desc><![CDATA[ Sit start then climb up and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 *8. (6m )</name>
+    <desc><![CDATA[ Sit start then traverse left across face finishing as for rounded arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 *The Great Speed Climbing Debate (7m )</name>
+    <desc><![CDATA[ Sit start at the left of the boulder and traverse right (staying off the top) until the right arête, then top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47826755000" lon="148.95230830000">
+    <name>Boulder: Trackside Boulder </name>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 1. (4m )</name>
+    <desc><![CDATA[ Sit start from slot, climb onto back of boulder and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 **2. (4m )</name>
+    <desc><![CDATA[ Sit start from slot, climb right arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V7 **3. (8m )</name>
+    <desc><![CDATA[ Sit start from slot, traverse across prow, then across face at 45 degree angle topping out as for left arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V8/9 *Bev, Bath &amp; Beyond (4m )</name>
+    <desc><![CDATA[ Linking the V6 sitstart into Frankenruby to add a bit of spice  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V8 ***FrankenRuby (4m )</name>
+    <desc><![CDATA[ Sit start from slot at base of corner, climb prow and top out.
+
+[ :video_camera: Bevan Ashby](https://www.youtube.com/watch?v=ZKfbnn3v6wo)  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V4 **4. (4m )</name>
+    <desc><![CDATA[ Sit start from slot at base of corner, climb corner and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V6 **Jerk's Variant (4m )</name>
+    <desc><![CDATA[ Sit start at base of corner, climb left through corner and then across arete at 45 degree angle topping out as for left arete. Similar difficulty to 6.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V5 **5. (4m )</name>
+    <desc><![CDATA[ Sit start from left side pull, climb into corner and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V6 **6. (4m )</name>
+    <desc><![CDATA[ Sit start from left side pull, then across face at 45 degree angle topping out as for left arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V8 *The Lanky Imp (4m )</name>
+    <desc><![CDATA[ Sit start at base of corner, climb left through corner but stay low and go directly from the big jug to the left arete, then climb arete/face and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *7. (4m )</name>
+    <desc><![CDATA[ Stand start left arete, climb arete/face and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name> Project (Boulder 4m )</name>
+    <desc><![CDATA[ Sit start left arete, climb arete/face and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *8. (3m )</name>
+    <desc><![CDATA[ Stand start on edges, climb face then top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *9. (6m )</name>
+    <desc><![CDATA[ Stand start on edges, traverse across face at 45 degree angle topping out as for left arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 *10. (3m )</name>
+    <desc><![CDATA[ Sit start on edges, climb face then top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V0 11. (3m )</name>
+    <desc><![CDATA[ Stand start at base of arete, climb arete and top out (this route is also the best decent).  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 *12. (3m )</name>
+    <desc><![CDATA[ Stand start middle of wall, climb face and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V2 13. (3m )</name>
+    <desc><![CDATA[ Stand start about 2m right of left arete, climb left onto arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 *14. (4m )</name>
+    <desc><![CDATA[ Stand start at base of arete, climb arete and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V3 15. (4m )</name>
+    <desc><![CDATA[ Stand start about 2m left of arete, climb sloping holds and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V0 16. (4m )</name>
+    <desc><![CDATA[ Stand start at base of corner, climb corner and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.47637228984" lon="148.95234975572">
+    <name>V1 17. (4m )</name>
+    <desc><![CDATA[ Stand start about 2m left of corner, climb face and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.49448245000" lon="148.92632220000">
+    <name>Field: Strawberry Fields </name>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V12 ***Slim Pickings </name>
+    <desc><![CDATA[ Stand start from left hand crimp and low right hand undercling, up prow to insecure top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 **Ringo Starr (3m )</name>
+    <desc><![CDATA[ Stand start on the face with a left hand crimp, right hand side pull and climb straight up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V11 **Snakes and Ladders (2m )</name>
+    <desc><![CDATA[ Sit start on high crimps and follow line of small crimps to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V12 **Snakes and Ladders Right (2m )</name>
+    <desc><![CDATA[ Start as for Snakes and Ladders, instead of going right hand to the crimp, cross over with the left and head out to the arete on the right to set up for a committing move to the lip.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 **Icarus (1m )</name>
+    <desc><![CDATA[ Stand start to Snakes and Ladders from high crimp.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 *Gruntled (2m )</name>
+    <desc><![CDATA[ Sit start on thin horizontal crimp and head straight up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 **Talos (4m )</name>
+    <desc><![CDATA[ Sit start on good low edge and traverse right on small crimps to top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 *Traverse </name>
+    <desc><![CDATA[ Stand start at bottom of feature and follow juggy rising  traverse up the arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 **Atonia (4m )</name>
+    <desc><![CDATA[ The obvious crack in gully  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 **Corinthian (4m )</name>
+    <desc><![CDATA[ Sit start hand crack in gully. Span out right up finger crack on poor feet  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 The Green Sheep </name>
+    <desc><![CDATA[ Stand start on crimps, slap the top, and mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Jump! </name>
+    <desc><![CDATA[ Stand start, jump to the arete, mantle, slab to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Mum Duties </name>
+    <desc><![CDATA[ Step left onto the slab from the blocks, traverse left to the arete, then up the slab to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 Moss-berries (3.5m )</name>
+    <desc><![CDATA[ Stand start on slopy lip then mantle the corner and climb up the mossy slab. Don't brush the moss off for extra top out fun.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 **Achilles heel (3m )</name>
+    <desc><![CDATA[ Sitstart by slots underneath huge flake, up and mantle the corner.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **Call Me Right (4m )</name>
+    <desc><![CDATA[ Sitstart the middle of face on jug. Up then trend rightward to mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 *Open Book (3m )</name>
+    <desc><![CDATA[ Sitstart the middle of face on jug. Straight up and mantle into groove.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name> 4 (Boulder )</name>
+    <desc><![CDATA[ Unknown name/ grade. Something goes up the middle, unsure if it starts on the left or right.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 **Hot Sake (3m )</name>
+    <desc><![CDATA[ Sit start and move left onto slab via long move.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 *Cold Sake </name>
+    <desc><![CDATA[ Low, left start to Hot Sake.
+Sit start with a good right crimp and a bad left sloper, up the sloper rail and along this to finish as for Hot Sake.
+A little bit morpho, probably easier if you're tall, harder if you're short.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 *Vertical Life Magazine (4m )</name>
+    <desc><![CDATA[ Stand start. Deadpoint to crimp rail and then balance top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V11 *The Two Lives </name>
+    <desc><![CDATA[ Sweet compression bloc  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V9 *Strong Frenchy (3m )</name>
+    <desc><![CDATA[ Start on high opposing side-pulls and move straight up. Non-giants might need to stack pads to reach the start holds. First sent by a strong visiting French guy.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 Weak Kiwi (3m )</name>
+    <desc><![CDATA[ Start as for Strong Frenchy but bail out left at the top. Easier, and probably not as nice as that climb.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 *Spring Edition 2019 (3m )</name>
+    <desc><![CDATA[ Sit start with left hand sharp crimp and right hand sloper (detached block at base is out). Funky moves with bad feat lead to a tricky top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 *Tiny pocket of doom </name>
+    <desc><![CDATA[ Start sitting on the rock matches on good crimp, make you way up past the bulge, hopefully your good enough to avoid the tiny pocket of doom.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Tiny Slab Of Doom </name>
+    <desc><![CDATA[ Stand start the slab just up and right from 'Tiny Pocket Of Doom'. Crimp, smear and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 Big Flake </name>
+    <desc><![CDATA[ Start on the big juggy flake, and up. Probably done before, just adding it as it was fun enough, and a good one for little kids.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 **The Queens Mantle (3m )</name>
+    <desc><![CDATA[ Stand start on right crimp and slopey edge then climb up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 The Queens Mantle sit-start (4m )</name>
+    <desc><![CDATA[ Sit start on the flake down and right, hard reach to join the stand.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 **Left mantle (4m )</name>
+    <desc><![CDATA[ Stand start on the slopey top edge then climb up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Cabbage </name>
+    <desc><![CDATA[ Stand on obvious ledge straight up using left sidepull and small crimps.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 *Give it a crack (3m )</name>
+    <desc><![CDATA[ Sit start at crack and climb up. Wobbly pillar is in however it might come loose sometime.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 **Wabi-sabi (3m )</name>
+    <desc><![CDATA[ Stand start and up good crimps on the mossy face  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 Fumei (3m )</name>
+    <desc><![CDATA[ Stand start, right hand on vague arete, left on whatever you can find and up  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V10 **Split System </name>
+    <desc><![CDATA[ Stand start on big sloping feature and head up the seam. On the back arete of the big boulder above the main area.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 **Slabezoid (3m )</name>
+    <desc><![CDATA[ Stand start and up slab between two aretes.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Slabezoid Sit (4m )</name>
+    <desc><![CDATA[ Access is along forestry roads, which in most cases seem to have been closed and gated.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 **Zaglossus Beak (3m )</name>
+    <desc><![CDATA[ Stand start and compress up pointed face.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 *Low Baller </name>
+    <desc><![CDATA[ Sit start bottom left of the big rail. Traverse up and right to top out through decent slopey edges/crimps.
+
+(Boulder is down the hill a little bit below Slim Pickings)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 *Crack warm up (3m )</name>
+    <desc><![CDATA[ Layback the crack and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **Ugg Thug (4m )</name>
+    <desc><![CDATA[ Stand or jump start to good rail and continue up face to top out on good holds.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 *Another compression warmup </name>
+    <desc><![CDATA[ Sit start and climb the compression without using the left side of the crack  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 Another Crack Warmup (3m )</name>
+    <desc><![CDATA[ Sit start the crack and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 *Cutting Teeth </name>
+    <desc><![CDATA[ Sit start on small compression make a few moves to the lip and scuttle back around the corner t top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 Chicken run </name>
+    <desc><![CDATA[ Sit start on small crimps on the right side of the face and bail out up and right  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 **Preggers prog </name>
+    <desc><![CDATA[ Sit start as for Chicken Run, head left through crimps and exit in the middle of the face
+
+[ :video_camera: Zoe ](https://youtu.be/YlKbYAc2PK4?si=5MOTt6jrUOP18BC_)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 Extended ediiton </name>
+    <desc><![CDATA[ Sit start as for chicken run, climb all the way right and top out the seam.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **Undocumented (4m )</name>
+    <desc><![CDATA[ Start in the break and use arete and crimp on the face to top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.50386070763" lon="148.91980222198">
+    <name>Field: The Passionate Ones </name>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V9 ***The Passionate Ones (5m )</name>
+    <desc><![CDATA[ Crimpy highball face. Stack pads to reach the high right crimp and left foot. Crimps to arete then up to high topout. Watch the landing.  ]]></desc>
+</wpt>
+<wpt lat="-35.50635721270" lon="148.92936380489">
+    <name>Area: Asgard </name>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 Bifrost </name>
+    <desc><![CDATA[ Sit start.
+Easiest of the 4 problems on the Approach Boulder.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 **End Of Fimbulwinter </name>
+    <desc><![CDATA[ Sit start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 Bluetooth </name>
+    <desc><![CDATA[ Sit start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Nimble Harold </name>
+    <desc><![CDATA[ Stand start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 ***Dark Befalls The Raven </name>
+    <desc><![CDATA[ One of the prettiest boulders around.
+
+Stand start the big slab and straight up.
+
+Probably v4/5? If you stack pads to get on easier, probably take a grade off.
+You can also step onto the slab from the block on the left and top out at about v3.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 Word Of Wyrd </name>
+    <desc><![CDATA[ Stand start in the hole between Dark Befalls The Raven and the massive blocks in the middle of the sector.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 **Laidback Loki </name>
+    <desc><![CDATA[ Sit start.
+Crack on the left end of The Back Wall.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 **Ash Over Ice </name>
+    <desc><![CDATA[ Stand start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 Son Of A Trickster </name>
+    <desc><![CDATA[ Stand start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 Geri </name>
+    <desc><![CDATA[ Stand start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 Freki </name>
+    <desc><![CDATA[ Stand start  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 ***The Huntsman </name>
+    <desc><![CDATA[ Sit start.
+The easiest problem on the Project Boulder, also the easiest way off the boulder.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 The Huntress </name>
+    <desc><![CDATA[ Sit start as for the Huntsman but go left and up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 *Gnaw the root (3m )</name>
+    <desc><![CDATA[ Stand start on opposing crimps and push to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name> Project #1 (Boulder )</name>
+    <desc><![CDATA[ Start at the low left undercling and right crimp, making your way directly to the crimp, then work your way up and left.  ]]></desc>
+</wpt>
+<wpt lat="-35.52721870706" lon="148.92393094547">
+    <name>Field: The Outer Rim </name>
+</wpt>
+<wpt lat="-35.52303642751" lon="148.92455304692">
+    <name>Area: Dathomir </name>
+</wpt>
+<wpt lat="-35.52542349872" lon="148.92553354053">
+    <name>Area: Dagobah </name>
+</wpt>
+<wpt lat="-35.52542349872" lon="148.92553354053">
+    <name> The Wall Project (Boulder )</name>
+    <desc><![CDATA[ The very tall slabby face right in front of you as you walk up the tree root stairs. Partially cleaned.  ]]></desc>
+</wpt>
+<wpt lat="-35.52542349872" lon="148.92553354053">
+    <name> The Blunt Arete Project (Boulder )</name>
+    <desc><![CDATA[ The blunt arete right of ' The Wall Project', finishing as for 'The Ramp Project'.  ]]></desc>
+</wpt>
+<wpt lat="-35.52542349872" lon="148.92553354053">
+    <name> The Ramp Project (Boulder )</name>
+    <desc><![CDATA[ Up the obvious left leading ramp to a high finish.  ]]></desc>
+</wpt>
+<wpt lat="-35.52542349872" lon="148.92553354053">
+    <name>V3 **Do, Or Do Not </name>
+    <desc><![CDATA[ Mega classic moderate grade highball! Stand start and up the obvious flake to a high finish direct, or slightly right above the other blocks to the right if you want a less risky finish  ]]></desc>
+</wpt>
+<wpt lat="-35.52687930727" lon="148.92553753471">
+    <name>Area: The Asteroid Field </name>
+</wpt>
+<wpt lat="-35.52773736867" lon="148.92525263343">
+    <name>Area: Hoth </name>
+</wpt>
+<wpt lat="-35.52721870706" lon="148.92393094547">
+    <name>V3 **Slaygirls </name>
+    <desc><![CDATA[ Start with dishes on the face and bad footer, head straight up.
+On the way to 'Defying Wampa', kinda of near the boundary of 'The Asteroid Field' and 'Hoth'.  ]]></desc>
+</wpt>
+<wpt lat="-35.52721870706" lon="148.92393094547">
+    <name>V11 ***Defying Wampa </name>
+    <desc><![CDATA[ Start on the obvious sloper rail standing on the block on the ground, follow the rails uo and left to top out.
+Absolute mega classic!  ]]></desc>
+</wpt>
+<wpt lat="-35.52701428954" lon="148.92301850330">
+    <name>Area: Endor </name>
+</wpt>
+<wpt lat="-35.52609209226" lon="148.92333604174">
+    <name>Area: Mandalore </name>
+</wpt>
+<wpt lat="-35.52898393208" lon="148.92301335381">
+    <name>Area: The Moons Of Lothal </name>
+</wpt>
+<wpt lat="-35.53009479721" lon="148.92253433064">
+    <name>Area: Tatooine </name>
+</wpt>
+<wpt lat="-35.52721870706" lon="148.92393094547">
+    <name>V6 ***Something Deeply Hidden </name>
+    <desc><![CDATA[ Start on the lowest horizontal rail and top out via the scoop.
+Kind of deep around the back of the area.  ]]></desc>
+</wpt>
+<wpt lat="-35.52721870706" lon="148.92393094547">
+    <name> Project (Boulder )</name>
+    <desc><![CDATA[ Up the obvious fridge. Probably 4 or 5, was cleaned but not climbed on a wet day. Go for it.  ]]></desc>
+</wpt>
+<wpt lat="-35.52721870706" lon="148.92393094547">
+    <name> Project (Boulder )</name>
+    <desc><![CDATA[ A mega amongst megas.
+Down deep in the sector. Compression masterclass. Probably 14+.  ]]></desc>
+</wpt>
+<wpt lat="-35.52962410865" lon="148.92083822382">
+    <name>Area: Dantooine </name>
+</wpt>
+<wpt lat="-35.52408845981" lon="148.89677883029">
+    <name>Boulder: Kelvin Bloc </name>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 Fridge Lift (3m )</name>
+    <desc><![CDATA[ Start just left of the arete. Straight up to the arete, then follow it to the top  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 *Baby Stop It (4m )</name>
+    <desc><![CDATA[ Start 1m right of Turn the Sheets, straight up to the highest point of the boulder  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 *Turn the Sheets (3m )</name>
+    <desc><![CDATA[ Start 1m right of Payment, up on small holds to a tenuous rock over  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 **Payment (5m )</name>
+    <desc><![CDATA[ Sit start on the lower arete and traverse right to finish between Fridge Lift and Baby Stop it  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 *Fridge Press (4m )</name>
+    <desc><![CDATA[ Sit start at the lower arete and mantle onto slab  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 **Non-Zero Possibility (4m )</name>
+    <desc><![CDATA[ Sit start on the arete left of Payment. Up to slopers then traverse left and up blunt arete  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V9 Tails of the Drift (8m )</name>
+    <desc><![CDATA[ Start as for 'Non Zero Possibility', but continue traversing to the left, finishing as for Kelvinator V6.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 Chasing Ghosts (3m )</name>
+    <desc><![CDATA[ Sit start below Erico, into layaway and up through slopes and pinch tending right. 
+
+*Line on this one is approximate- seems like it may be quite contrived. If anyone has clarity on where this goes please edit the topo/ description.*  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V5 *Erico (3m )</name>
+    <desc><![CDATA[ Stand start on slopers. Mantle on prayers  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 *Shut the Door (3m )</name>
+    <desc><![CDATA[ Sit start low on sidepull. Straight up through big move to a jug and mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 *Kelvinator (6m )</name>
+    <desc><![CDATA[ Start as for Shut the Door. Traverse left staying low, and finish using the very large footer  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 Undercounter (3m )</name>
+    <desc><![CDATA[ Sit start. Proceed up on nice holds  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 Descent (2m )</name>
+    <desc><![CDATA[ On the right side of the face facing the road. Usually reversed.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 Hard Descent (2m )</name>
+    <desc><![CDATA[ Slab and thin crack between descent and Fridge lift on the face near the road.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>Crag: The Kelvin Field </name>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V5 Once Upon A Time in Namadgi (8m )</name>
+    <desc><![CDATA[ Stand start on the furthest right hand side of the boulder on the large horizontal. Traverse it left, under the overlap and up on good holds.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name> Open Project (Boulder )</name>
+    <desc><![CDATA[ Start matched on the horizontal and climb up. A line I was going to do but ran out of time.  ]]></desc>
+</wpt>
+<wpt lat="-35.52488290271" lon="148.89740803583">
+    <name>Boulder: Citadel Wall </name>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V4 **The Primis (5m )</name>
+    <desc><![CDATA[ First line done at the Field- or is it?! If not, write your lines up! Sit start on opposing sidepulls and move upwards through more opposing holds, trending left into huge gaston and then up to good slopes from where you can reach to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V3 **The Primis Direct (4m )</name>
+    <desc><![CDATA[ A direct finish to 'The Primis'. Start as for the Primus head directly up an mantle out.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V5 *The Electric Skin Wizard (4m )</name>
+    <desc><![CDATA[ Sit start matched on the sloper on the right hand side of the boulder. Move to a good edge then make a big move to the sloping arete. Traverse the sloping arete left and top out as for The Primus. The edge you move to is a bit suspicious. It may break. Be careful as the fall isn't the best.  ]]></desc>
+</wpt>
+<wpt lat="-35.52514610209" lon="148.89739445734">
+    <name>Boulder: Throne Boulder </name>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V0 Warm up slab (3m )</name>
+    <desc><![CDATA[ 3m Left of throne room lhs. Stand start and up trending slightly left. Watch the little rock pedestal when you're topping out.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V4 **Throne room lhs (4m )</name>
+    <desc><![CDATA[ One for the folks that don't like chicken winging. Sit start at juggy block side pull with high feet for opposition. Up to finger jugs then move the feet onto the right side of the crack and pull into the original throne room and finish up that. If you don't like the sit start, the stand from the finger jugs is a nice V3.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V3 ***Throne Room (4m )</name>
+    <desc><![CDATA[ Sit start at the back of the crack matched on the cracks undercling. Pull into the crack and climb it to the top. It isn't over until your standing on top of the boulder!.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V3 **Right-Hand Aide (4m )</name>
+    <desc><![CDATA[ Sit start jug on right boulder. Compress the good slopers and straight over the front. The boulder on the left is out.  ]]></desc>
+</wpt>
+<wpt lat="-35.52506428319" lon="148.89725006757">
+    <name>V1 *Hoochie Coochie Spaceman </name>
+    <desc><![CDATA[ Sit start at the obvious hold in the lower middle of the boulder. Move up through side pulls and slopers to the victory jug and top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.53084540000" lon="148.88815655000">
+    <name>Field: Spark Boulders </name>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 **Triple Swell (5m )</name>
+    <desc><![CDATA[ Sit start in jug sidepull. Up the bulge features to committing but easy topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name> Seam project (Boulder 3m )</name>
+    <desc><![CDATA[ Sit start then up using crack in left hand and some bad slopers for the right. v10+  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V4 *Jacques (3m )</name>
+    <desc><![CDATA[ Sit start on round arete with good flake. Long move to crimp then techy mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V7 ***Experiment 221 (5m )</name>
+    <desc><![CDATA[ Stand start in slot. Left then up the cracks with a big dyno.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V6 **Doormat (6m )</name>
+    <desc><![CDATA[ Sit start bottom right. Traverse left through jugs then a crimpy crux.
+
+[ :video_camera: Stephen Waring ](https://youtu.be/DfwdgfAyIiA?si=Yl79GrI7CgiIeru8)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 *Doormat direct </name>
+    <desc><![CDATA[ Stand start on two underling edges, make a couple moves to gain the horizontal break finish up doormat.
+
+[ :video_camera: Stephen Waring](https://youtu.be/U7ytX2e4Dx8?si=qhj5FgKn7Bnxdfxc)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V3 *Spare key (2m )</name>
+    <desc><![CDATA[ Sharp compression boulder. Stand/crouch at the blunt arete with a left hand dish and right hand side pull flake. Could start from a sit on lower holds  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 *Doorbell (3m )</name>
+    <desc><![CDATA[ Fun easy slab on the face to the left of spare key  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V9 **Lip Reader </name>
+    <desc><![CDATA[ sit start at the bottom of the seam make a large move to the lip and work your way into the scoop to top out.
+[ :video_camera: Stephen ](https://youtu.be/_9XpTELNnoE?si=nPYcv9pu20Tvc0o6)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V8 Snakes in the Grass </name>
+    <desc><![CDATA[ Sit start bottom left of slopey crack. Traverse right to v2 mantle. Pumpy and painful.
+
+[ :video_camera: Stephen ](https://youtu.be/NKGoungVx1c?si=cdTP3Yrkhb5nr0pu)  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>Field: The Hideaway </name>
+</wpt>
+<wpt lat="-35.53300454403" lon="148.88086800123">
+    <name>Field: Banana Hill Bouldering </name>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V1 **Over the Hedge (4m )</name>
+    <desc><![CDATA[ Stand start on big undercling with detached footer. Traverse right following the crack and mantle at the end.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305" lon="148.88039">
+    <name>V8 **Escape Room (3m )</name>
+    <desc><![CDATA[ Sit start matched on sloper and straight up through slopers and pinches. Once you get the crack join 'Over the Hedge' to topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V5 **Riddle Me This (3m )</name>
+    <desc><![CDATA[ Sit start as for 'Escape room' but traverse all the way right then up into shared topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.53327" lon="148.88092">
+    <name>V5 *Bushwhacked (2m )</name>
+    <desc><![CDATA[ Double toe hook start with hands in low jug. Then up arete.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>VB Bellyflop Mantle (1m )</name>
+    <desc><![CDATA[ Jump start to jugs then mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.53323" lon="148.88103">
+    <name>V3 **Yankee Doodle (3m )</name>
+    <desc><![CDATA[ Sit start matched on jug then traverse left finishing matched around the corner on jug. Finishes where 'Microchasm' starts.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V5 **Battle toad </name>
+    <desc><![CDATA[ Sit start low on large shelf and make your up and over the blunt prow  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V1 *Mind the Gap Left (3m )</name>
+    <desc><![CDATA[ Sit start with undercling then left around the corner to easy topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V2 *Mind the Gap Middle (2m )</name>
+    <desc><![CDATA[ Sit start with undercling then straight up to slopey mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V2 **Mind the Gap Right (2m )</name>
+    <desc><![CDATA[ Sit start with undercling then right through edges to mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V6 *Cassinia (2m )</name>
+    <desc><![CDATA[ Stand start on high undercling with very low feet. To good edge then right and topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V8 **Roscoe the Bear (2m )</name>
+    <desc><![CDATA[ Stand start on broken crimps. Straight up to a slopey mantle.
+
+Upgraded from v7 due to a breakage.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V0 Ant Ridge (8m )</name>
+    <desc><![CDATA[ Up the ridge left of 'High Voltage'  ]]></desc>
+</wpt>
+<wpt lat="-35.5332" lon="148.88121">
+    <name>V3 ***High Voltage (10m )</name>
+    <desc><![CDATA[ Up through crease following it until it ends. Then carefully onto slab and scramble the rest of the way.
+
+Inspection on a rope is a good idea.  ]]></desc>
+</wpt>
+<wpt lat="-35.53299" lon="148.8811">
+    <name>V3 *Ziggurat (4m )</name>
+    <desc><![CDATA[ Sit start compressing good holds then onto jugs and traverse left all the way to the top.  ]]></desc>
+</wpt>
+<wpt lat="-35.53295" lon="148.88126">
+    <name>V5 ***Fireball Dyno (2m )</name>
+    <desc><![CDATA[ Stand start with two good crimps and poor feet. Dyno to top then mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V10 **Aerial Shooting (5m )</name>
+    <desc><![CDATA[ Stand start matched on flat crimp with poor feet. Traverse right on crimps to mantle.
+
+[ :video_camera: Stephen Waring](https://youtube.com/shorts/1ynDtY5Ymoc?si=hMJ1u4h52Rn2w0kn)  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V8 The Hog </name>
+    <desc><![CDATA[ Sit start on crimps on the bulge to the right of 'Aerial Shooting' and work your way up.
+
+[ :video_camera: Stephen Waring](https://youtube.com/shorts/5H5_JC8SO7g?si=BdCToBM6nA78XkLZ)  ]]></desc>
+</wpt>
+<wpt lat="-35.53322012015" lon="148.88106165756">
+    <name>Sector: Trad Climbing </name>
+</wpt>
+<wpt lat="-35.53315" lon="148.8811">
+    <name>21 *Soup Dragon (10m )</name>
+    <desc><![CDATA[ The curving off-width.  ]]></desc>
+</wpt>
+<wpt lat="-35.53323" lon="148.88103">
+    <name>24 **Microchasm (10m )</name>
+    <desc><![CDATA[ The leftward leaning crack with minimal gear which is best supplemented with pads. Belay off gear at top .  ]]></desc>
+</wpt>
+<wpt lat="-35.53354110000" lon="148.87908870000">
+    <name>Boulder: Cracked Boulder </name>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V2/3 ***Cracked Egg (3m )</name>
+    <desc><![CDATA[ Sit start crack with hands in the lowest part of it and climb it to the top. A really, really, really nice lowball crack problem!  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V3 *Supermoon (2m )</name>
+    <desc><![CDATA[ Stand start with jug and up.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V2 *Three-toed skink (3m )</name>
+    <desc><![CDATA[ Sit start in crack, follow it right and mantle.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V3 Crystal Surfer (2m )</name>
+    <desc><![CDATA[ The grainy slab 5m right of Three-toed skink.  ]]></desc>
+</wpt>
+<wpt lat="-35.53275428324" lon="148.87984330397">
+    <name>Boulder: Arya Boulder </name>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V0 *Arya (3m )</name>
+    <desc><![CDATA[ Sit start matched on large edge. Move to the next large edge then mantle out.  ]]></desc>
+</wpt>
+<wpt lat="-35.53305172786" lon="148.88044227458">
+    <name>V3 *Entry traverse (5m )</name>
+    <desc><![CDATA[ Sit start under roof. then traverse right until you reach the end of the rail on the other side of boulder, then top out.  ]]></desc>
+</wpt>
+<wpt lat="-35.537115" lon="148.867465">
+    <name>Field: Scattered Boulders </name>
+</wpt>
+<wpt lat="-35.53405" lon="148.87487">
+    <name>V7 ***Nescient Treehugger (6m )</name>
+    <desc><![CDATA[ Sit start on good flake. Big moves through slopers avoiding the tree then traverse right through crimpy slots. High mantle to top out.
+
+[ :video_camera: Pete ](https://www.instagram.com/p/CfLGD4cDxnd/?utm_source=ig_web_copy_link&amp;igshid=MzRlODBiNWFlZA==)  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V2 *C1 (2m )</name>
+    <desc><![CDATA[ Sit start with left hand fist jam, good edge for the right hand, and right heel hook. Straight up.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 C2 (3m )</name>
+    <desc><![CDATA[ Sit start with hand jams straight up. Careful on the hollow stuff at the top. It didn't come off by hand but might be encouraged with leverage.  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V0 *C3 (4m )</name>
+    <desc><![CDATA[ If you'd like to go for a long walk up the hill there are 4 little corner cracks up there 3 to 4m high. Also nice views of the valley and surrounding tors. Graded to be climbed in decent approach shoes without mats. -35.5334248, 148.8673874  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>VB Rest and Ice (2m )</name>
+    <desc><![CDATA[ Sit start the block underneath 'Injury Denial' and up the right face.  ]]></desc>
+</wpt>
+<wpt lat="-35.540178" lon="148.860062">
+    <name>V5 **Injury Denial (3m )</name>
+    <desc><![CDATA[ Low stand start. Slap up either side before topping out. Large block on left is out  ]]></desc>
+</wpt>
+<wpt lat="-35.5051093" lon="148.91492545">
+    <name>V1 *Rehab (3m )</name>
+    <desc><![CDATA[ Sitstart crack left of 'Injury Denial' follow and topout.  ]]></desc>
+</wpt>
+<wpt lat="-35.54163590000" lon="148.87009860000">
+    <name>Field: Submarine Rocks </name>
+</wpt>
+<wpt lat="-35.5415733" lon="148.8709537">
+    <name>V5 ***Sloth &amp; Avarice (8m )</name>
+    <desc><![CDATA[ Approximately 100m south (uphill) of the Submarine is a cave formed by two boulders. S&amp;A traverses the length of the cave following a sharp seam to finish at a an obvious jug. V5 if climbed with feet jammed in the roof, V9 without the roof.
+
+[ :video_camera: Stephen Waring]( https://youtube.com/shorts/nm8ZRyyGfUk?si=sPwtH6gXYQcXEOKr)  ]]></desc>
+</wpt>
+<wpt lat="-35.541792" lon="148.869883">
+    <name>16 **Dave's Climb (20m )</name>
+    <desc><![CDATA[ The flake crack 200m south (uphill) from the submarine. Probably the only viable climb amongst the main boulders.  ]]></desc>
+</wpt>
+
+</gpx>
+
+
+

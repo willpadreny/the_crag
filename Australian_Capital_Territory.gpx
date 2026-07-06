@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+	creator="theCrag.com"
+	version="1.1"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+	http://www.topografix.com/GPX/1/1/gpx.xsd
+">
+<metadata>
+<link href="https://www.thecrag.com"><text>theCrag.com</text></link>
+</metadata>
+<link href="https://www.thecrag.com//en/climbing/australia/new-south-wales-and-act/australian-capital-territory"><text>Full text region guide for "Australian Capital Territory"</text></link>
+<emailType id="support" domain="thecrag.com" />
+<copyright author="theCrag.com">
+	<license>https://www.thecrag.com/copyright</license>
+</copyright>
+<copyright author="ANU Moutaineering Club">
+    <license></license>
+</copyright>
+<copyright author="Canberra Climbers' Association">
+    <license>http://creativecommons.org/licenses/by-sa/3.0/</license>
+</copyright>
+<wpt lat="-35.44712765" lon="149.12043395">
+    <name>Region: Australian Capital Territory </name>
+</wpt>
+<wpt lat="-35.3171878" lon="149.05655355">
+    <name>Area: Canberra </name>
+</wpt>
+<wpt lat="-35.26807318636" lon="149.00370665795">
+    <name>Area: Molonglo River </name>
+</wpt>
+<wpt lat="-35.36183801437" lon="149.03420095798">
+    <name>Crag: Cooleman Ridge Bouldering </name>
+</wpt>
+<wpt lat="-35.4536264" lon="149.10577445">
+    <name>Area: Tuggeranong Hill </name>
+</wpt>
+<wpt lat="-35.40756439926" lon="149.03480945539">
+    <name>Area: Murrumbidgee River </name>
+</wpt>
+<wpt lat="-35.37121707163" lon="149.07338072317">
+    <name>Crag: Mount Taylor </name>
+</wpt>
+<wpt lat="-35.35246333340" lon="149.12405303975">
+    <name>Area: Mount Mugga Mugga </name>
+</wpt>
+<wpt lat="-35.33459256409" lon="149.13428551100">
+    <name>Field: The Zen Garden </name>
+</wpt>
+<wpt lat="-35.27849501269" lon="149.15610919921">
+    <name>Area: Mt Anslie No. 2 Quarry </name>
+</wpt>
+<wpt lat="-35.27151829221" lon="149.16059765656">
+    <name>Cliff: Mount Ainslie Quarry </name>
+</wpt>
+<wpt lat="-35.27620365628" lon="149.09724923764">
+    <name>Crag: Black Mountain Bouldering </name>
+</wpt>
+<wpt lat="-35.30688525" lon="149.12956095">
+    <name>Feature: Buildering </name>
+</wpt>
+<wpt lat="-35.17963753447" lon="149.12965400700">
+    <name>Boulder: Yerrabi Pond Plastic Rock </name>
+</wpt>
+<wpt lat="-35.39020845" lon="149.3928152">
+    <name>Area: Queanbeyan area </name>
+</wpt>
+<wpt lat="-35.38187110000" lon="149.24760555000">
+    <name>Crag: White Rocks </name>
+</wpt>
+<wpt lat="-35.41582140375" lon="149.26067321562">
+    <name>Field: Googong Cascades </name>
+</wpt>
+<wpt lat="-35.42914855" lon="149.5397276">
+    <name>Crag: Black Range bouldering </name>
+</wpt>
+<wpt lat="-35.34851000000" lon="149.24226000000">
+    <name>Gym: Odd Bods Fitness Centre </name>
+</wpt>
+<wpt lat="-35.4008014" lon="149.1949042">
+    <name>Crag: Astraphobia Crag </name>
+</wpt>
+<wpt lat="-35.37674422887" lon="149.24958432368">
+    <name>Cliff: karabar boulder </name>
+</wpt>
+<wpt lat="-35.34541064747" lon="148.85862479569">
+    <name>Area: Mt Coree area </name>
+</wpt>
+<wpt lat="-35.29544920000" lon="148.84265365000">
+    <name>Crag: Lost Vegas </name>
+</wpt>
+<wpt lat="-35.30829049198" lon="148.80573040494">
+    <name>Crag: Hollywood </name>
+</wpt>
+<wpt lat="-35.30752158510" lon="148.80923901052">
+    <name>Crag: Mount Coree </name>
+</wpt>
+<wpt lat="-35.43958233178" lon="148.84119399647">
+    <name>Crag: Bendora </name>
+</wpt>
+<wpt lat="-34.99939980000" lon="148.62742603333">
+    <name>Cliff: Burrinjuck Dam </name>
+</wpt>
+<wpt lat="-35.45226105" lon="148.9106681">
+    <name>Region: Tidbinbilla area </name>
+</wpt>
+<wpt lat="-35.31633060000" lon="148.96172465000">
+    <name>Area: Casuarina Sands </name>
+</wpt>
+<wpt lat="-35.33509646847" lon="148.95772554402">
+    <name>Crag: Scout Crag </name>
+</wpt>
+<wpt lat="-35.3738266" lon="148.92541445">
+    <name>Crag: Pierce's Creek </name>
+</wpt>
+<wpt lat="-35.45017855411" lon="148.90287491314">
+    <name>Crag: Tidbinbilla </name>
+</wpt>
+<wpt lat="-35.50097774815" lon="148.92151305642">
+    <name>Area: Gibraltar and Corin Road </name>
+</wpt>
+<wpt lat="-35.59917265" lon="149.0155531">
+    <name>Area: Orroral area </name>
+</wpt>
+<wpt lat="-35.56186165" lon="148.9929122">
+    <name>Crag: Booroomba Rocks </name>
+</wpt>
+<wpt lat="-35.60075085" lon="148.9578458">
+    <name>Crag: Orroral Ridge </name>
+</wpt>
+<wpt lat="-35.64127889797" lon="148.94336840141">
+    <name>Crag: Orroral Valley </name>
+</wpt>
+<wpt lat="-35.52981487294" lon="148.99952925815">
+    <name>Crag: Phantom Buttress </name>
+</wpt>
+<wpt lat="-35.57679183965" lon="148.99771517031">
+    <name>Field: Honeysuckle Creek </name>
+</wpt>
+<wpt lat="-35.58322344910" lon="148.97729597901">
+    <name>Field: Honeysuckle Campground </name>
+</wpt>
+<wpt lat="-35.76051698284" lon="148.95061963139">
+    <name>Crag: Southern ACT </name>
+</wpt>
+<wpt lat="-35.69122790786" lon="148.92512853089">
+    <name>Cliff: Rendezvous Creek </name>
+</wpt>
+<wpt lat="-35.69958328649" lon="148.96497502982">
+    <name>Crag: Rendezvous Creek Pinnacle </name>
+</wpt>
+<wpt lat="-35.72195485" lon="148.99896325">
+    <name>Area: Boboyan Road </name>
+</wpt>
+<wpt lat="-35.77450383375" lon="148.99087865038">
+    <name>Cliff: Smiling Rock </name>
+</wpt>
+<wpt lat="-35.74383481453" lon="148.97056345677">
+    <name>Field: Gudgenby Valley </name>
+</wpt>
+<wpt lat="-35.76998143969" lon="148.90931927554">
+    <name>Crag: Mount Gudgenby </name>
+</wpt>
+<wpt lat="-35.76811888171" lon="148.86796578148">
+    <name>Crag: Mount Scabby </name>
+</wpt>
+<wpt lat="-35.71850943333" lon="149.13658796667">
+    <name>Crag: Michelago </name>
+</wpt>
+
+</gpx>
+
+
+
