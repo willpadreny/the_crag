@@ -18,7 +18,6 @@ import sys
 
 BASE = "https://www.thecrag.com"
 
-# any route link, absolute or relative, in any cached page (listing pages hold ~100 each)
 ROUTE_HREF_RE = re.compile(r'(?:https?://[^"\'\s]*?)?/(?:[a-z]{2}/)?climbing/([^"\'\s]+?)/route/\d+', re.I)
 
 
@@ -31,7 +30,7 @@ def main():
     if not os.path.isdir(args.cache):
         sys.exit(f"cache dir not found: {args.cache}")
 
-    crag_paths = set()          # e.g. 'australia/corin-road-bouldering'
+    crag_paths = set()
     files = [f for f in os.listdir(args.cache) if f.endswith(".html")]
     for fn in files:
         try:
@@ -42,8 +41,6 @@ def main():
         for m in ROUTE_HREF_RE.finditer(text):
             crag_paths.add(m.group(1).strip("/"))
 
-    # a route directly under a parent whose child also appears is fine — we keep both and
-    # let the merge step dedupe the resulting waypoints. This guarantees completeness.
     urls = sorted(f"{BASE}/en/climbing/{p}/gpx" for p in crag_paths)
     with open(args.out, "w", encoding="utf-8") as f:
         f.write("\n".join(urls) + "\n")

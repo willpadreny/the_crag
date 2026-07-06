@@ -19,7 +19,7 @@ import os
 import re
 import sys
 
-AUS_BBOX = (-45.0, -9.0, 112.0, 155.0)  # lat_min, lat_max, lng_min, lng_max
+AUS_BBOX = (-45.0, -9.0, 112.0, 155.0)
 
 ROUTE_ID_RE = re.compile(r"route_(\d+)")
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.I | re.S)
@@ -32,7 +32,7 @@ PAIR_RES = [
     re.compile(r'"lat(?:itude)?"\s*:\s*(-?\d+\.\d+)\s*,\s*"l(?:ng|on|ongitude)"\s*:\s*(-?\d+\.\d+)', re.I),
     re.compile(r'"latlng"\s*:\s*\[\s*(-?\d+\.\d+)\s*,\s*(-?\d+\.\d+)', re.I),
     re.compile(r'data-lat[^0-9\-]*(-?\d+\.\d+)[^0-9\-]+data-l(?:ng|on)[^0-9\-]*(-?\d+\.\d+)', re.I),
-    re.compile(r"(-\d{2}\.\d{3,})\s*,?\s+(1[0-5]\d\.\d{3,})"),  # bare "-35.4, 148.9" in prose
+    re.compile(r"(-\d{2}\.\d{3,})\s*,?\s+(1[0-5]\d\.\d{3,})"),
 ]
 LAT_RE = re.compile(r'(?:data-lat(?:itude)?|["\']?lat(?:itude)?["\']?)\s*[:=]\s*["\']?(-?\d+\.\d+)', re.I)
 LNG_RE = re.compile(r'(?:data-l(?:ng|on|ongitude)|["\']?l(?:ng|on|ongitude)["\']?)\s*[:=]\s*["\']?(-?\d+\.\d+)', re.I)
@@ -93,7 +93,7 @@ def main():
     files = [f for f in os.listdir(args.cache) if f.endswith(".html") and ROUTE_ID_RE.search(f)]
     print(f"Scanning {len(files)} cached route pages in {args.cache}/ …")
 
-    routes = {}          # route_id -> dict
+    routes = {}
     located = unlocated = 0
     for fn in files:
         rid = ROUTE_ID_RE.search(fn).group(1)

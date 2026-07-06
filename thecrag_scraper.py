@@ -1,44 +1,4 @@
 #!/usr/bin/env python3
-"""
-thecrag_scraper.py - personal offline backup of theCrag climbs (bouldering-focused).
-
-Outputs:
-  <out>/climbs.html  - self-contained, searchable offline guide (boulder-only by default)
-  <out>/crags.gpx    - one named waypoint per boulder/area, tagged to match the HTML
-
-Cross-reference: each located boulder/area gets a short tag (e.g. T07). The GPX
-waypoint name and the HTML section heading share that tag, so a pin on the map maps
-1:1 to a section you can find by typing the tag into the offline page's search box.
-
-Two ways to get boulder-only data
----------------------------------
-theCrag's faceted /routes/.../with-gear-style/boulder/ search is gated: a bare
-script gets bounced to the homepage because it lacks the cookie-consent/session your
-browser has. So:
-
-  MODE A (authoritative - uses theCrag's own boulder filter):
-    Copy your browser Cookie header (DevTools -> Network -> a request ->
-    Request Headers -> cookie) and pass it with --cookie. Then point --routes-url at
-    your filtered search:
-      python thecrag_scraper.py \
-        --routes-url "https://www.thecrag.com/en/climbing/australia/new-south-wales-and-act/australian-capital-territory/routes/with-gear-style/boulder/?sortby=at,desc" \
-        --cookie "PASTE_YOUR_COOKIE_HEADER_HERE" --out ./out
-
-  MODE B (no cookie - crawl area tree, filter boulders locally):
-    python thecrag_scraper.py \
-      --url "https://www.thecrag.com/en/climbing/australia/new-south-wales-and-act/australian-capital-territory" \
-      --out ./out
-
-Test on ONE area/crag first (add --url pointing at a single crag, or a routes-url
-scoped to one crag) before running the whole region.
-
-theCrag data is CC BY-NC-SA. Personal offline use only; don't redistribute or use
-commercially. Automated access is also governed by https://www.thecrag.com/terms and
-/robots.txt - check them first. Be gentle: 1 req/sec, cached, single-threaded.
-
-    pip install requests beautifulsoup4 lxml
-"""
-
 import argparse
 import html
 import os
@@ -49,10 +9,7 @@ import random
 from collections import OrderedDict
 from urllib.parse import urljoin, urlparse, parse_qsl, urlencode, urlsplit, urlunsplit
 
-# HTTP layer: prefer curl_cffi (impersonates a real browser's TLS/HTTP2 fingerprint,
-# which is what gets you past Cloudflare); fall back to plain requests if not installed.
-#   pip install curl_cffi
-IMPERSONATE = "chrome"  # match the browser your cookie/UA came from: chrome | firefox | safari | edge
+IMPERSONATE = "chrome"
 try:
     from curl_cffi import requests as _http
     USING_CFFI = True
@@ -67,12 +24,11 @@ USER_AGENT = "PersonalCragBackup/1.1 (personal offline use; contact: you@example
 REQUEST_DELAY = random.uniform(1.0, 5.0) 
 MAX_PAGES_DEFAULT = 2000
 CACHE_DIR = ".cache_thecrag"
-AUS_BBOX = (-45.0, -9.0, 112.0, 155.0)  # lat_min, lat_max, lng_min, lng_max
+AUS_BBOX = (-45.0, -9.0, 112.0, 155.0)
 
 
 def make_session():
     if USING_CFFI:
-        # impersonate sets a matching browser UA + TLS fingerprint automatically
         return _http.Session(impersonate=IMPERSONATE)
     s = _http.Session()
     s.headers.update({"User-Agent": USER_AGENT})
@@ -82,9 +38,6 @@ def make_session():
 session = make_session()
 
 
-# --------------------------------------------------------------------------- #
-# Fetch (polite + cached + redirect-to-home detection)
-# --------------------------------------------------------------------------- #
 def cache_path(url: str) -> str:
     safe = re.sub(r"[^A-Za-z0-9._-]", "_", url)[-180:]
     return os.path.join(CACHE_DIR, safe + ".html")
@@ -107,7 +60,6 @@ def fetch(url: str):
                     f.write(r.text)
                 return r.text, r.url, False
             if r.status_code in (429, 503):
-                # honour Retry-After if the server sent one, else exponential backoff
                 ra = r.headers.get("Retry-After")
                 try:
                     wait = min(int(ra), 120) if ra else min(10 * (2 ** attempt), 120)
@@ -133,12 +85,9 @@ def is_gated(requested: str, final_url: str | None) -> bool:
     return fp.endswith("/home") and not requested.rstrip("/").endswith("/home")
 
 
-# --------------------------------------------------------------------------- #
-# Parsing helpers
-# --------------------------------------------------------------------------- #
 def path_of(url: str) -> str:
     p = urlparse(url).path
-    return re.sub(r"^/[a-z]{2}/", "/", p)  # strip /en/ etc.
+    return re.sub(r"^/[a-z]{2}/", "/", p)
 
 
 def is_route(url: str) -> bool:
@@ -162,7 +111,7 @@ def looks_boulder(grade: str, info: str, area: str) -> bool:
     g = grade.strip()
     if re.match(r"^V\d", g) or g in ("VB", "VW"):
         return True
-    if re.match(r"^\d{1,2}[A-C][+/-]?$", g):  # Font (uppercase A-C)
+    if re.match(r"^\d{1,2}[A-C][+/-]?$", g):
         return True
     blob = f"{info} {area}".lower()
     return "boulder" in blob
@@ -207,7 +156,6 @@ COORD_PATTERNS = [
     re.compile(r'latitude["\s:=]+(-?\d+\.\d+).{0,40}?longitude["\s:=]+(-?\d+\.\d+)', re.I | re.S),
 ]
 
-# fallback: capture latitude and longitude *independently* (any order, intervening attrs ok)
 LAT_RE = re.compile(r'(?:data-lat(?:itude)?|["\']?lat(?:itude)?["\']?)\s*[:=]\s*["\']?(-?\d+\.\d+)', re.I)
 LNG_RE = re.compile(r'(?:data-l(?:ng|on|ongitude)|["\']?l(?:ng|on|ongitude)["\']?)\s*[:=]\s*["\']?(-?\d+\.\d+)', re.I)
 
@@ -222,7 +170,6 @@ def extract_coords(page_html: str):
                 continue
             if lo_lat <= lat <= hi_lat and lo_lng <= lng <= hi_lng:
                 return (lat, lng)
-    # independent fallback: first in-range latitude + first in-range longitude
     lat = next((v for v in (float(x) for x in LAT_RE.findall(page_html))
                 if lo_lat <= v <= hi_lat), None)
     lng = next((v for v in (float(x) for x in LNG_RE.findall(page_html))
@@ -263,7 +210,6 @@ def prettify_area(apath):
         return "Ungrouped boulders"
     slug = apath.rstrip("/").split("/")[-1]
     name = slug.replace("-", " ").title()
-    # fix acronyms the .title() step lower-cases
     return re.sub(r"\b(Act|Nsw|Wa|Nt|Sa)\b",
                   lambda m: m.group(1).upper(), name)
 
@@ -297,9 +243,6 @@ def extract_coords_from_text(text: str):
     return None
 
 
-# --------------------------------------------------------------------------- #
-# MODE B: crawl the area tree, group routes by leaf area, filter boulders
-# --------------------------------------------------------------------------- #
 def crawl(start_url: str, max_pages: int, boulder_only: bool) -> "OrderedDict[str, dict]":
     scope_path = path_of(start_url).rstrip("/")
     areas: "OrderedDict[str, dict]" = OrderedDict()
@@ -340,9 +283,6 @@ def crawl(start_url: str, max_pages: int, boulder_only: bool) -> "OrderedDict[st
     return areas
 
 
-# --------------------------------------------------------------------------- #
-# MODE A: paginate a faceted routes search (uses your cookie for the boulder filter)
-# --------------------------------------------------------------------------- #
 def crawl_routes_search(routes_url: str, max_pages: int, boulder_only: bool,
                         resolve_coords: bool, boulder_coords: bool = False
                         ) -> "OrderedDict[str, dict]":
@@ -378,9 +318,6 @@ def crawl_routes_search(routes_url: str, max_pages: int, boulder_only: bool,
             if looks_boulder(v["grade"], v["info"], "")
         )
 
-    # Group by parent crag, derived directly from each route URL
-    # (e.g. .../climbing/australia/corin-road-bouldering/route/123 -> australia/corin-road-bouldering).
-    # This needs NO extra requests. Then fetch each UNIQUE crag page once for coords + a nice name.
     areas: "OrderedDict[str, dict]" = OrderedDict()
     for r in collected.values():
         apath = area_path_from_route(r["url"])
@@ -390,7 +327,6 @@ def crawl_routes_search(routes_url: str, max_pages: int, boulder_only: bool,
             {"title": prettify_area(apath), "url": area_url_from_path(apath),
              "coords": None, "routes": []},
         )
-        # a route may carry its own GPS in its description text — keep it for a precise pin
         r["coords"] = extract_coords_from_text(r["info"])
         node["routes"].append(r)
 
@@ -429,9 +365,6 @@ def crawl_routes_search(routes_url: str, max_pages: int, boulder_only: bool,
     return areas
 
 
-# --------------------------------------------------------------------------- #
-# Tagging + output
-# --------------------------------------------------------------------------- #
 def assign_tags(areas: dict) -> list[dict]:
     """Return a sorted list of area nodes, each given a stable Txx tag."""
     nodes = [n for n in areas.values() if n["routes"]]
@@ -559,9 +492,6 @@ q.addEventListener('input', () => {{
         f.write(doc)
 
 
-# --------------------------------------------------------------------------- #
-# CLI
-# --------------------------------------------------------------------------- #
 def main() -> None:
     global IMPERSONATE, session, REQUEST_DELAY
     ap = argparse.ArgumentParser(description="Personal offline boulder backup from theCrag.")
